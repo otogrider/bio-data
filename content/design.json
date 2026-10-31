@@ -4,6 +4,9 @@
   "enemy:bat": {
    "img": "enemy-bat-cbd0aa60c205.png"
   },
+  "enemy:golem": {
+   "img": "enemy-golem-1f09e57aa0d6.png"
+  },
   "enemy:lavaslime": {
    "img": "enemy-lavaslime-f116b9cd5b71.png"
   },
