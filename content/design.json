@@ -1,6 +1,9 @@
 {
  "v": 1,
  "forms": {
+  "enemy:bat": {
+   "img": "enemy-bat-cbd0aa60c205.png"
+  },
   "enemy:lavaslime": {
    "img": "enemy-lavaslime-f116b9cd5b71.png"
   },
