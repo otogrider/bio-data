@@ -2,7 +2,8 @@
  "v": 1,
  "forms": {
   "enemy:mage": {
-   "img": "enemy-mage-340d10897a9f.png"
+   "img": "enemy-mage-340d10897a9f.png",
+   "name": "神驕ル闇ノ魔導"
   },
   "enemy:shadowsw": {
    "name": "神驕ル者"
