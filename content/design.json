@@ -14,7 +14,8 @@
    "name": "神驕ル闇ノ劔"
   },
   "enemy:tknight": {
-   "img": "enemy-tknight-fffd737295d4.png"
+   "img": "enemy-tknight-fffd737295d4.png",
+   "name": "神ナラザル者ニ墜チル刄"
   }
  },
  "trash": []
