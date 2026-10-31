@@ -19,6 +19,9 @@
    "img": "enemy-mage-340d10897a9f.png",
    "name": "神驕ル闇ノ魔導"
   },
+  "enemy:salking": {
+   "img": "enemy-salking-593a84bdc4d2.png"
+  },
   "enemy:shadowsw": {
    "img": "enemy-shadowsw-bebc09cc7417.png",
    "name": "神驕ル闇ノ劔"
