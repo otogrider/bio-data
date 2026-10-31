@@ -1,6 +1,9 @@
 {
  "v": 1,
  "forms": {
+  "enemy:lavaslime": {
+   "img": "enemy-lavaslime-f116b9cd5b71.png"
+  },
   "enemy:lord": {
    "img": "enemy-lord-3fd67acc5ec6.png",
    "name": "私ヲ越エテ見セヨ"
