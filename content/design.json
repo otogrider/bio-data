@@ -4,6 +4,9 @@
   "enemy:bat": {
    "img": "enemy-bat-cbd0aa60c205.png"
   },
+  "enemy:firedragon": {
+   "img": "enemy-firedragon-67c5765f16fe.png"
+  },
   "enemy:golem": {
    "img": "enemy-golem-1f09e57aa0d6.png",
    "name": "溶岩喰らい"
