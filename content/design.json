@@ -12,6 +12,9 @@
   "enemy:shadowsw": {
    "img": "enemy-shadowsw-bebc09cc7417.png",
    "name": "神驕ル闇ノ劔"
+  },
+  "enemy:tknight": {
+   "img": "enemy-tknight-fffd737295d4.png"
   }
  },
  "trash": []
