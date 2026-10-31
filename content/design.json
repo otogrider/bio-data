@@ -2,7 +2,8 @@
  "v": 1,
  "forms": {
   "enemy:lord": {
-   "img": "enemy-lord-3fd67acc5ec6.png"
+   "img": "enemy-lord-3fd67acc5ec6.png",
+   "name": "私ヲ越エテ見セヨ"
   },
   "enemy:mage": {
    "img": "enemy-mage-340d10897a9f.png",
