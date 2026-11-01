@@ -35,7 +35,8 @@
    "name": "神ナラザル者ニ墜チル刄"
   },
   "enemy:twohead": {
-   "img": "enemy-twohead-1b791c691553.png"
+   "img": "enemy-twohead-1b791c691553.png",
+   "name": "神域ヘノ門護ル双頭"
   }
  },
  "trash": []
