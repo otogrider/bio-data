@@ -33,6 +33,9 @@
   "enemy:tknight": {
    "img": "enemy-tknight-fffd737295d4.png",
    "name": "神ナラザル者ニ墜チル刄"
+  },
+  "enemy:twohead": {
+   "img": "enemy-twohead-1b791c691553.png"
   }
  },
  "trash": []
