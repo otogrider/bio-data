@@ -30,6 +30,9 @@
    "img": "enemy-shadowsw-bebc09cc7417.png",
    "name": "神驕ル闇ノ劔"
   },
+  "enemy:spirit": {
+   "img": "enemy-spirit-03480358b04f.png"
+  },
   "enemy:tknight": {
    "img": "enemy-tknight-fffd737295d4.png",
    "name": "神ナラザル者ニ墜チル刄"
