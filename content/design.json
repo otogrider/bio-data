@@ -12,6 +12,9 @@
    "img": "enemy-golem-1f09e57aa0d6.png",
    "name": "溶岩駆動のゴーレム"
   },
+  "enemy:jelly": {
+   "img": "enemy-jelly-a71b7594af4f.png"
+  },
   "enemy:lavaslime": {
    "img": "enemy-lavaslime-f116b9cd5b71.png"
   },
