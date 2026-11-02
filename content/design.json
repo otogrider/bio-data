@@ -10,7 +10,7 @@
   },
   "enemy:golem": {
    "img": "enemy-golem-1f09e57aa0d6.png",
-   "name": "溶岩喰らい"
+   "name": "溶岩駆動のゴーレム"
   },
   "enemy:lavaslime": {
    "img": "enemy-lavaslime-f116b9cd5b71.png"
