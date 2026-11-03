@@ -43,7 +43,8 @@
    "img": "enemy-spirit-03480358b04f.png"
   },
   "enemy:thunderdragon": {
-   "img": "enemy-thunderdragon-5f818300d408.png"
+   "img": "enemy-thunderdragon-5f818300d408.png",
+   "name": "雷神龍"
   },
   "enemy:tknight": {
    "img": "enemy-tknight-fffd737295d4.png",
