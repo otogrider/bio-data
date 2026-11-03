@@ -42,6 +42,9 @@
   "enemy:spirit": {
    "img": "enemy-spirit-03480358b04f.png"
   },
+  "enemy:thunderdragon": {
+   "img": "enemy-thunderdragon-5f818300d408.png"
+  },
   "enemy:tknight": {
    "img": "enemy-tknight-fffd737295d4.png",
    "name": "神ナラザル者ニ墜チル刄"
