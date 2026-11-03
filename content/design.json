@@ -4,6 +4,9 @@
   "enemy:bat": {
    "img": "enemy-bat-cbd0aa60c205.png"
   },
+  "enemy:eagle": {
+   "img": "enemy-eagle-a3425f92e422.png"
+  },
   "enemy:firedragon": {
    "img": "enemy-firedragon-67c5765f16fe.png",
    "name": "炎神龍"
